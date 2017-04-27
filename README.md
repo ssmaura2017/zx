@@ -3,7 +3,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/huang.jpg" /></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/新伪-火.jpg"/></td>
+     <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816712&from=Email-mh"><td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/新伪-火.jpg"/></td></a>
   </tr>
   <tr>
 <td align=center>◆世纪伪案  自焚骗局◆天安门自焚真相<br/>
@@ -11,7 +11,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F112%2Fmh%2Fpackages%2Fzifen%2F&from=Email-mh">◆伪火专辑◆全球关于伪火系列深度报道</a><br/>
   </tr>
   <tr>
-     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/1400.JPG" /></td>
+     <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816697&from=Email-mh"><td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/1400.JPG" /></td></a>
   </tr>
   <tr>
       <td align=center>
