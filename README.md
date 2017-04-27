@@ -3,7 +3,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/huang.jpg" /></td>
   </tr>
   <tr>
-     <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816712&from=Email-mh"><td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/新伪-火.jpg"/></td></a>
+     <td align=center><a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816712&from=Email-mh"><img src="https://raw.githubusercontent.com/wnel2017/ku/master/新伪-火.jpg"/></a></td>
   </tr>
   <tr>
 <td align=center>◆世纪伪案  自焚骗局◆天安门自焚真相<br/>
